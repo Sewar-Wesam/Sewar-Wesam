@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Sewar-Wesam
--  siwararab809@gmail.com
+- 💻 Computer System Engineer (CSE) @ Birzeit University
+- ✨ Strong Debater
+-  How to reach me: siwararab809@gmail.com
 
 <!---
 Sewar-Wesam/Sewar-Wesam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
