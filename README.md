@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sewar Wesam AbuEid</h1>
 <h3 align="center">💻 Computer System Engineer @ Birzeit University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sewar-wesam&label=Profile%20views&color=0e75b6&style=flat" alt="sewar-wesam" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc](https://i.pinimg.com/originals/7f/f3/25/7ff325008c55dd87b0fe700156f5ae8d.jpg)/?username=sewar-wesam&label=Profile%20views&color=0e75b6&style=flat" alt="sewar-wesam" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sewar-Wesam](https://github.com/Sewar-Wesam)
 
